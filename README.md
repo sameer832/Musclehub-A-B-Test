@@ -23,12 +23,7 @@ Visitors will randomly be assigned to one of two groups:
 - Using Pandas to add another column to the dataset, to help distinguish between people in group A, and B
 - Using groupby to make sure that both groups contain around the same number of people. Also created a pie chart using matplotlib for visulization
 
-# Step 2 Who picks up and Application?
-Recall that the sign-up process for MuscleHub has several steps:
-- Take a fitness test with a personal trainer (only Group A)
-- Fill out an application for the gym
-- Send in their payment for their first month's membership
-
+# Step 2 Who picks up an Application?
 - Added another column which distinguishes between people who ended up filling out an application and those who didnt
 - We want to calculate the percent of people who complete an application, so I pivoted the data, and split the two groups between A and B, and as we can see more people
 from group B filled out an application.
