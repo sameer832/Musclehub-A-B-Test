@@ -4,9 +4,9 @@
 # About
 Currently, when a visitor to MuscleHub is considering buying a membership, he or she follows the following steps:
 
-Take a fitness test with a personal trainer
-Fill out an application for the gym
-Send in their payment for their first month’s membership
+- Take a fitness test with a personal trainer
+- Fill out an application for the gym
+- Send in their payment for their first month’s membership
 Janet, the manager of MuscleHub, thinks that the fitness test intimidates some prospective members, so she has set up an A/B test.
 
 Visitors will randomly be assigned to one of two groups:
@@ -17,7 +17,8 @@ Janet’s hypothesis is that visitors assigned to Group B will be more likely to
 
 # Technologies used
 -python(pandas,matplotlib,scipy)
--SQL
+
+- SQL
 
 # Step 1 Investigate the A and B groups
 - Using Pandas to add another column to the dataset, to help distinguish between people in group A, and B
