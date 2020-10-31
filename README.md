@@ -11,13 +11,12 @@ Janet, the manager of MuscleHub, thinks that the fitness test intimidates some p
 
 Visitors will randomly be assigned to one of two groups:
 
-Group A will still be asked to take a fitness test with a personal trainer
-Group B will skip the fitness test and proceed directly to the application
-Janet’s hypothesis is that visitors assigned to Group B will be more likely to eventually purchase a membership to MuscleHub
+- Group A will still be asked to take a fitness test with a personal trainer
+- Group B will skip the fitness test and proceed directly to the application
+- Janet’s hypothesis is that visitors assigned to Group B will be more likely to eventually purchase a membership to MuscleHub
 
 # Technologies used
--python(pandas,matplotlib,scipy)
-
+- python(pandas,matplotlib,scipy)
 - SQL
 
 # Step 1 Investigate the A and B groups
@@ -27,9 +26,9 @@ Janet’s hypothesis is that visitors assigned to Group B will be more likely to
 # Step 2 Who picks up and Application?
 Recall that the sign-up process for MuscleHub has several steps:
 
-Take a fitness test with a personal trainer (only Group A)
-Fill out an application for the gym
-Send in their payment for their first month's membership
+- Take a fitness test with a personal trainer (only Group A)
+- Fill out an application for the gym
+- Send in their payment for their first month's membership
 
 - Added another column which distinguishes between people who ended up filling out an application and those who didnt
 - We want to calculate the percent of people who complete an application, so I pivoted the data, and split the two groups between A and B, and as we can see more people
