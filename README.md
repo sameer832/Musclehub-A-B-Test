@@ -25,7 +25,6 @@ Visitors will randomly be assigned to one of two groups:
 
 # Step 2 Who picks up and Application?
 Recall that the sign-up process for MuscleHub has several steps:
-
 - Take a fitness test with a personal trainer (only Group A)
 - Fill out an application for the gym
 - Send in their payment for their first month's membership
