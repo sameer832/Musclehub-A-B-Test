@@ -15,7 +15,7 @@ Visitors will randomly be assigned to one of two groups:
 - Group B will skip the fitness test and proceed directly to the application
 - Janet’s hypothesis is that visitors assigned to Group B will be more likely to eventually purchase a membership to MuscleHub
 
-# Technologies used
+# Languages
 - python(pandas,matplotlib,scipy)
 - SQL
 
